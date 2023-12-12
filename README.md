@@ -40,15 +40,15 @@
 
 ## OUTPUT:
 
-![Alt text](<WhatsApp Image 2023-12-12 at 09.56.57_b3b2ee8e.jpg>)
+![Alt text](<Screenshot 2023-12-12 101732.png>)
 
-![Alt text](<WhatsApp Image 2023-12-12 at 09.56.57_acf37be4.jpg>)
+![Alt text](<Screenshot 2023-12-12 101746.png>)
 
-![Alt text](<WhatsApp Image 2023-12-12 at 09.56.57_217a6328.jpg>)
+![Alt text](<Screenshot 2023-12-12 101754.png>)
 
 ## Output:
 
-![Alt text](<WhatsApp Image 2023-12-12 at 10.06.37_7aea3df5.jpg>)
+![Alt text](<Screenshot 2023-12-12 101807.png>)
 
 ### Name:P.Sasinthar
 ### Register Number:23012532
