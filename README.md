@@ -39,14 +39,15 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
+![Screenshot 2023-12-12 101732](https://github.com/sasintharparanthaman/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145743219/621f0c63-921c-4052-aadc-2f5f7f7a1063)
 
-![Alt text](<Screenshot 2023-12-12 101732.png>)
-![Alt text](<Screenshot 2023-12-12 101746.png>)
-![Alt text](<Screenshot 2023-12-12 101754.png>)
+![Screenshot 2023-12-12 101746](https://github.com/sasintharparanthaman/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145743219/9444d27f-750c-41f0-babf-f574848c9a56)
+
+![Screenshot 2023-12-12 101754](https://github.com/sasintharparanthaman/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145743219/4b73aa10-ef5b-4bdd-9ed7-4afa823773b7)
 
 ## Output:
 
-![Alt text](<Screenshot 2023-12-12 101807.png>)
+![Screenshot 2023-12-12 101807](https://github.com/sasintharparanthaman/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145743219/c140f492-104a-48c8-85b2-7e97b046becc)
 
 ### Name:P.Sasinthar
 ### Register Number:23012532
