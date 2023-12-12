@@ -41,9 +41,7 @@
 ## OUTPUT:
 
 ![Alt text](<Screenshot 2023-12-12 101732.png>)
-
 ![Alt text](<Screenshot 2023-12-12 101746.png>)
-
 ![Alt text](<Screenshot 2023-12-12 101754.png>)
 
 ## Output:
